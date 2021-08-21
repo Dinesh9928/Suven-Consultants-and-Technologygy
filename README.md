@@ -32,4 +32,4 @@ of images called Digits.
 This dataset consists of 1,797 images that are 8x8 pixels in size. Each image is a
 handwritten digit in grayscale,
 
-Project Blog:
+Project Blog: https://medium.com/@dineshprasad99283/handwritten-digits-recognition-with-scikit-learn-e6e4cd3eecfe
